@@ -1,6 +1,6 @@
 # EtherDEX - Decentralized Ethereum Exchange
 
-Available to view on github pages [HERE](https://alexroan.github.io/EthereumDEX/)
+Available to view on github pages [HERE](https://santosharron.github.io/EthereumDEX/)
 
 Please note, The exchange smart contracts are currently deployed to the Kovan network only.
 
