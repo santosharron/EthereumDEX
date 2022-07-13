@@ -12,6 +12,9 @@ They are pieces of code written on top of blockchain networks like Ethereum that
 
 A decentralized exchange (DEX) is a peer-to-peer marketplace where users can trade cryptocurrencies in a non-custodial manner without the need for an intermediary to facilitate the transfer and custody of funds.
 
+## How does a DEX make money?
+As decentralized exchanges are built on top of blockchain networks that support smart contracts and where users keep custody of their funds, every trade incurs a transaction fee along with the trading fee.
+
 ## Introduction
 
 TODO
